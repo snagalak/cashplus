@@ -1,2 +1,2 @@
-# monee
+# cash+
 TechTogether Hackathon Project
