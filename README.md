@@ -1,6 +1,6 @@
 ![Logo](https://github.com/snagalak/cashplus/blob/bfd5092178d6e00a3bc558ae4f6ff2812eee8425/iPhone%2014%20-%202.png)
 <p align="center" style="font-size:240px;">
-<b>Made with.</b>
+<b>Made with</b>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,figma">
@@ -24,3 +24,9 @@ Cash+ goes beyond traditional banking systems to address the financial needs of 
 
 - Figma: For UI/UX development
 - Swift: For front-end development
+
+## Challenges I ran into
+Participating in a 2-day hackathon and learning Swift simultaneously, a programming language unfamiliar to me was definitely challenging. The limited time frame and the complexity of the language posed significant hurdles. However, I am immensely proud of how it all turned out.
+
+## Accomplishments that I'm proud of
+Learning Swift within such a tight deadline demanded an intense and focused effort. Navigating through documentation, online tutorials, and seeking help from experienced developers, I pushed myself to grasp the fundamentals and syntax of the language.
