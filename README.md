@@ -1,4 +1,4 @@
-![Logo](iPhone 14 - 2.png)
+![Logo](https://github.com/snagalak/cashplus/blob/bfd5092178d6e00a3bc558ae4f6ff2812eee8425/iPhone%2014%20-%202.png)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,figma">
