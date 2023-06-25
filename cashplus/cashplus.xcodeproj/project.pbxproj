@@ -26,6 +26,7 @@
 		01E0D5A42A46C98100FBCC0D /* LeagueSpartan-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01E0D59B2A46C98100FBCC0D /* LeagueSpartan-Black.ttf */; };
 		01E0D5A62A46CADC00FBCC0D /* Group 1card.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E0D5A52A46CADC00FBCC0D /* Group 1card.png */; };
 		01E0D5A82A46CBC100FBCC0D /* Group 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E0D5A72A46CBC100FBCC0D /* Group 2.png */; };
+		01E0D5AC2A470F5900FBCC0D /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E0D5AB2A470F5900FBCC0D /* LandingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		01E0D59B2A46C98100FBCC0D /* LeagueSpartan-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-Black.ttf"; sourceTree = "<group>"; };
 		01E0D5A52A46CADC00FBCC0D /* Group 1card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 1card.png"; sourceTree = "<group>"; };
 		01E0D5A72A46CBC100FBCC0D /* Group 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2.png"; sourceTree = "<group>"; };
+		01E0D5AB2A470F5900FBCC0D /* LandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				01E0D5982A46C98000FBCC0D /* LeagueSpartan-SemiBold.ttf */,
 				01E0D59A2A46C98000FBCC0D /* LeagueSpartan-Thin.ttf */,
 				016804302A46BEDB00214D5B /* ContentView.swift */,
+				01E0D5AB2A470F5900FBCC0D /* LandingView.swift */,
 				016804322A46BEDD00214D5B /* Assets.xcassets */,
 				016804342A46BEDD00214D5B /* Preview Content */,
 			);
@@ -307,6 +310,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01E0D5AC2A470F5900FBCC0D /* LandingView.swift in Sources */,
 				016804312A46BEDB00214D5B /* ContentView.swift in Sources */,
 				0168042F2A46BEDB00214D5B /* cashplusApp.swift in Sources */,
 			);
@@ -471,6 +475,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cashplus/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cash+";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -501,6 +506,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cashplus/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cash+";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
