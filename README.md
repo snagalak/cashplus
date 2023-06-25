@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/1o9kycACvQDf1z3BYeja04QxPgkOewhYP/view?usp=sharing)
+![Logo](iPhone 14 - 2.png)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,figma">
